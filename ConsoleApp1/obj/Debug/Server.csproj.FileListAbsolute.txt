@@ -1,0 +1,10 @@
+C:\Users\Alexandru\Desktop\GDPR\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Alexandru\Desktop\GDPR\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Alexandru\Desktop\GDPR\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Alexandru\Desktop\GDPR\ConsoleApp1\bin\Debug\Library.dll
+C:\Users\Alexandru\Desktop\GDPR\ConsoleApp1\bin\Debug\Library.pdb
+C:\Users\Alexandru\Desktop\GDPR\ConsoleApp1\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Alexandru\Desktop\GDPR\ConsoleApp1\obj\Debug\Server.csproj.CopyComplete
+C:\Users\Alexandru\Desktop\GDPR\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Alexandru\Desktop\GDPR\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Alexandru\Desktop\GDPR\ConsoleApp1\obj\Debug\Server.csprojAssemblyReference.cache

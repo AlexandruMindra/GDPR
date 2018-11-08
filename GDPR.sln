@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{50935B4C-7AE3-4D30-9BC9-DF7CEF67A883}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "ConsoleApp1\Server.csproj", "{92A4AAE3-67B2-4EB0-83F0-274FB8151951}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library", "Library\Library.csproj", "{5D1B71B3-64BF-4A1A-A96B-C3815E4D6925}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50935B4C-7AE3-4D30-9BC9-DF7CEF67A883}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50935B4C-7AE3-4D30-9BC9-DF7CEF67A883}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50935B4C-7AE3-4D30-9BC9-DF7CEF67A883}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50935B4C-7AE3-4D30-9BC9-DF7CEF67A883}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92A4AAE3-67B2-4EB0-83F0-274FB8151951}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92A4AAE3-67B2-4EB0-83F0-274FB8151951}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92A4AAE3-67B2-4EB0-83F0-274FB8151951}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92A4AAE3-67B2-4EB0-83F0-274FB8151951}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D1B71B3-64BF-4A1A-A96B-C3815E4D6925}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D1B71B3-64BF-4A1A-A96B-C3815E4D6925}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D1B71B3-64BF-4A1A-A96B-C3815E4D6925}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D1B71B3-64BF-4A1A-A96B-C3815E4D6925}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF494467-50BF-43A4-8CA8-59FDA1D2503A}
+	EndGlobalSection
+EndGlobal

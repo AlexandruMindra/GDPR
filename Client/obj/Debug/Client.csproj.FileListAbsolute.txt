@@ -1,0 +1,13 @@
+C:\Users\Alexandru\Desktop\GDPR\Client\bin\Debug\Client.exe.config
+C:\Users\Alexandru\Desktop\GDPR\Client\bin\Debug\Client.exe
+C:\Users\Alexandru\Desktop\GDPR\Client\bin\Debug\Client.pdb
+C:\Users\Alexandru\Desktop\GDPR\Client\bin\Debug\Library.dll
+C:\Users\Alexandru\Desktop\GDPR\Client\bin\Debug\Library.pdb
+C:\Users\Alexandru\Desktop\GDPR\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\Alexandru\Desktop\GDPR\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Alexandru\Desktop\GDPR\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Alexandru\Desktop\GDPR\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Alexandru\Desktop\GDPR\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Alexandru\Desktop\GDPR\Client\obj\Debug\Client.exe
+C:\Users\Alexandru\Desktop\GDPR\Client\obj\Debug\Client.pdb
+C:\Users\Alexandru\Desktop\GDPR\Client\obj\Debug\Client.ClientForm.resources
